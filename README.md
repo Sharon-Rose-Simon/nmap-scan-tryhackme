@@ -26,4 +26,7 @@ Practiced network discovery and port enumeration with nmap.
 
 ## 5) Screenshots
 
+# Image 1: ![img 1 - Nmap](https://github.com/user-attachments/assets/585fcd74-139d-4c85-b44a-78ab745a6e4f)
 
+
+# Image 2: ![img 2 - nmap](https://github.com/user-attachments/assets/e0f22c21-dcd2-4dae-8b96-818079353c19)

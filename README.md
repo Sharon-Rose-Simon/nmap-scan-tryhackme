@@ -1,6 +1,9 @@
 # nmap-scan-tryhackme
 TryHackMe Nmap port scanning project — 10.10.245.172
 
+**Repository:** nmap-scan-tryhackme  
+**Description:** TryHackMe Nmap port scanning project — target IP: 10.10.245.172
+
 ## 1) Purpose: 
 Practiced network discovery and port enumeration with nmap. 
 
@@ -20,3 +23,7 @@ Practiced network discovery and port enumeration with nmap.
 
 ## 5) What I learned
 - How to enumerate services with Nmap and interpret service/version output.
+
+## 5) Screenshots
+
+
